@@ -121,27 +121,26 @@ hostelmanagementsystemptu/
 
 ### Home Page
 
-(Add Screenshot)
+
 
 ### Student Dashboard
 
-(Add Screenshot)
 
 ### Room Allocation Module
 
-(Add Screenshot)
+
 
 ### Mess Management
 
-(Add Screenshot)
+
 
 ### Complaint Management
 
-(Add Screenshot)
+
 
 ### Hostel Manager Dashboard
 
-(Add Screenshot)
+
 
 ---
 
